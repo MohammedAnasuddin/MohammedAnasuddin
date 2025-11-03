@@ -1,19 +1,158 @@
-<h1 align="center">Hi 👋, I'm Mohammed Anasuddin</h1>
-<h3 align="center">A aspiring dev who loves to solve real world problem with his dev skills</h3>
+```md
+import Engineer from "./profile.js";
 
-- I’m currently working on [Twiisty_XO](https://github.com/MohammedAnasuddin/Twisty-XO)
+const mohammed = new Engineer({
+  focus: "real-world systems",
+  language: "JavaScript",
+  mindset: "understand → design → build → refine",
+});
 
-- I’m currently learning **NodeJS**
+## Mohammed Ansuddin
+> System Architect • JavaScript Engineer • Problem Solver
 
-- I’m proud of my project [LookJobs](https://github.com/MohammedAnasuddin/Building-LookJobs/tree/main)
+> Minimal. Precise. Real-world focus.
 
-- Ask me about **JavaScript , ReactJS**
+<img align="right" width="140" src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,postgres,tailwind" />
 
-- Reach me at **connect.anasuddin@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+System-minded JavaScript engineer building software with clarity, intent, and real-world impact.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## Contents
+
+> _Navigation_
+
+- Overview  
+- Curiosity Engine  
+- Solutions in Progress  
+- Engineering Toolkit  
+- Roadmap  
+- Connect  
+
+// ——————————————————— Overview ———————————————————
+
+### System-First Builder
+> **Principle:** Design systems before writing code
+
+> **Style:** Architecture → Flow → Execution
+
+I design systems before I write code — mapping flows, data paths, and behaviors so execution is clean and predictable.
+
+```
+
+idea → problem framing → system design → architecture → build → refine
+
+````
+
+```js
+const cycle = ["thought", "design", "build", "ship", "improve"];
+````
+
+// —————————————— Curiosity Engine ——————————————
+
+### Curiosity that Builds
+
+> Curiosity = Architecture fuel
+
+I learn by tracing logic, reading docs, and understanding internals — not by copying patterns.
+
+```
+question → research → experiment → understand → apply
+```
+
+Knowledge builds confidence.
+Understanding builds systems.
+
+```js
+const learning = { mode: "hands-on", source: "real systems" };
+```
+
+// ————————————— Solutions in Progress —————————————
+
+### Solutions in Progress
+
+> Building useful systems — step by step
+
+> Engineering meaningful tools, not demos
+
+#### LookJobs — Automated Job Discovery
+
+```js
+const LookJobs = {
+  goal: "Automate job discovery & reduce daily search fatigue",
+  coreIdea: "Scheduled scraping + unified job feed",
+  architecture: ["Puppeteer", "PostgreSQL + JSONB", "Cron jobs", "React"],
+  status: "Expanding filters and data sources",
+};
+```
+
+#### Twisty XO — Strategy Reinvented
+
+```js
+const TwistyXO = {
+  goal: "Make tic-tac-toe strategic and replayable",
+  idea: "Expiring moves → constant adaptation",
+  tech: ["React", "Context API"],
+  status: "Playable — refining AI & UX",
+};
+```
+
+#### CampusBuzz — Realtime Campus Events
+
+```js
+const CampusBuzz = {
+  goal: "Centralize campus event discovery & participation",
+  system: "Realtime events + auth + dashboards",
+  tech: ["Flutter", "Firebase"],
+  status: "Prototype — improving UX & analytics",
+};
+```
+
+// ——————————— Engineering Toolkit ————————————
+
+### Engineering Toolkit
+
+> Tools chosen for clarity and predictability
+
+```
+UI & Interaction     → React, TypeScript, Tailwind
+Application Logic    → Node.js, Express, Auth, APIs
+Data Layer           → PostgreSQL, MongoDB, Firebase
+Automation Systems   → Puppeteer, Cron Jobs, DOM analysis
+Craft Discipline     → Clean code, debugging, docs, testing mindset
+```
+
+```js
+const engineer = ["systems", "logic", "automation", "UI clarity"];
+```
+
+// ——————————————— Roadmap ————————————————
+
+### Engineering Roadmap
+
+> Evolution of capability, not features
+
+> AI = enhancement, not hype
+
+```
+→ deeper system architecture
+→ automation & intelligent flows
+→ scalable real-world applications
+→ integrating AI where it truly adds value
+```
+
+```js
+const direction = ["system depth", "AI utility", "scalable engineering"];
+```
+
+// ——————————————— Connect ————————————————
+
+### Connect
+
+> Let's build meaningful systems
+
+* GitHub: [https://github.com/MohammedAnasuddin](https://github.com/MohammedAnasuddin)
+* LinkedIn: [https://linkedin.com/in/connectanasuddin](https://linkedin.com/in/connectanasuddin)
+* Email: [connect.anasuddin@gmail.com](mailto:connect.anasuddin@gmail.com)
+
+```
+```
