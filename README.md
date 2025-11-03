@@ -1,127 +1,120 @@
-```js
-import Engineer from "./profile.js";
+# Crafting Systems with JavaScript — Refined by Curiosity and Intent
 
-const mohammed = new Engineer({
-  focus: "real-world systems",
-  language: "JavaScript",
-  mindset: "understand → design → build → refine",
+```bash
+> npm create intro@latest
+```
+
+---
+
+```js
+// === Initialization ===
+// Boot engineer profile instance
+import Engineer from "./profile.js";
+let mohammed_anasuddin = new Engineer();
+```
+
+---
+
+```js
+// === Core Identity ===
+// Establish foundational engineering mindset
+mohammed_anasuddin.setCore({
+  role: "SDE-Full Stack Developer",
+  stack: "JavaScript Ecosystem",
+  focus: "Real-world systems",
+  philosophy: "understand → design → build → refine",
 });
 ```
 
-## Mohammed Ansuddin
-
-System Architect • JavaScript Engineer • Problem Solver
-
-Minimal. Precise. Real‑world focus.
-
-<img align="right" width="200" src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,postgres,tailwind" />
-
-System‑minded JavaScript engineer building software with clarity, intent, and real‑world impact.
-
-
-
-## Overview
-
-I design systems before writing code — mapping flows, data paths, and behaviors so execution is clean and predictable.
-
-```
-idea → problem framing → system design → architecture → build → refine
-```
+---
 
 ```js
-const cycle = ["thought", "design", "build", "ship", "improve"];
+// === Curiosity Engine ===
+// Activate learning routines powered by curiosity
+mohammed_anasuddin.enableLearning({
+  approach: "understand internals, read docs, experiment",
+  belief: "Understanding builds confidence",
+});
 ```
 
 ---
 
-## Curiosity Engine
-
-I learn by tracing logic, reading docs, and understanding internals — not by copying patterns.
-
-```
-question → research → experiment → understand → apply
-```
-
-Knowledge builds confidence. Understanding builds systems.
-
 ```js
-const learning = { mode: "hands‑on", source: "real systems" };
+// === Project-1: LookJobs ===
+// Automate job search fatigue using scraping + workflow
+mohammed_anasuddin.addProject("LookJobs", {
+  problem: "Job search fatigue and scattered job platforms",
+  solution: "Automate job discovery and centralize listings",
+  type: "Automation & scraping system",
+  idea: "Scheduled web scraping + unified job feed",
+  stack: ["Puppeteer", "PostgreSQL", "Cron", "React"],
+});
 ```
 
 ---
 
-## Solutions in Progress
-
-Engineering meaningful tools, not demos.
-
-### LookJobs — Automated Job Discovery
-
 ```js
-const LookJobs = {
-  goal: "Automate job discovery & reduce daily search fatigue",
-  coreIdea: "Scheduled scraping + unified job feed",
-  architecture: ["Puppeteer", "PostgreSQL + JSONB", "Cron jobs", "React"],
-  status: "Expanding filters and data sources",
-};
-```
-
-### Twisty XO — Strategy Reinvented
-
-```js
-const TwistyXO = {
-  goal: "Make tic‑tac‑toe strategic and replayable",
-  idea: "Expiring moves → constant adaptation",
-  tech: ["React", "Context API"],
-  status: "Playable — refining AI & UX",
-};
-```
-
-### CampusBuzz — Realtime Campus Events
-
-```js
-const CampusBuzz = {
-  goal: "Centralize campus event discovery & participation",
-  system: "Realtime events + auth + dashboards",
-  tech: ["Flutter", "Firebase"],
-  status: "Prototype — improving UX & analytics",
-};
+// === Project-2: Twisty XO ===
+// Make tic‑tac‑toe strategic via expiring moves
+mohammed_anasuddin.addProject("TwistyXO", {
+  problem: "Classic tic‑tac‑toe becomes predictable quickly",
+  solution: "Introduce expiring moves to create adaptive strategy",
+  type: "Strategy game engine",
+  idea: "Expiring moves → adaptive play",
+  stack: ["React", "Context API"],
+});
 ```
 
 ---
 
-## Engineering Toolkit
-
-```
-UI & Interaction     → React, TypeScript, Tailwind
-Application Logic    → Node.js, Express, Auth, APIs
-Data Layer           → PostgreSQL, MongoDB, Firebase
-Automation Systems   → Puppeteer, Cron Jobs, DOM analysis
-Craft Discipline     → Clean code, debugging, docs, testing mindset
-```
-
 ```js
-const engineer = ["systems", "logic", "automation", "UI clarity"];
+// === Project-3: CampusBuzz ===
+// Real-time campus event discovery + participation
+mohammed_anasuddin.addProject("CampusBuzz", {
+  problem: "Campus events are scattered and hard to track in real‑time",
+  solution: "Centralized live event feed with engagement tools",
+  type: "Realtime feed + auth + dashboards",
+  stack: ["Flutter", "Firebase"],
+});
 ```
 
 ---
 
-## Roadmap
+```js
+// === Engineering Toolkit ===
+// Attach the technology capabilities
+mohammed_anasuddin.stack({
+  frontend: ["React", "React-Router", "Redux", "TypeScript", "Tailwind", "TanStack Query"],
+  backend: ["Node.js", "Express","RestAPIs"],
+  database: ["PostgreSQL", "MongoDB"],
+  automation: ["Puppeteer", "Cron"],
+  project_management: ["Version Control - Git/GitHub"],
+  testing:["Jest"]
+});
+```
 
-```
-→ deeper system architecture
-→ automation & intelligent flows
-→ scalable real‑world applications
-→ integrating AI where it truly adds value
-```
+
+---
 
 ```js
-const direction = ["system depth", "AI utility", "scalable engineering"];
+// === Roadmap ===
+// Configure future growth and strategic direction
+mohammed_anasuddin.setRoadmap([
+  "Advanced system architecture",
+  "Automation pipelines & intelligent flows",
+  "Scalable production systems",
+  "Integrating AI into Systems",
+]);
 ```
 
 ---
 
-## Connect
+```js
+export default mohammed_anasuddin
+```
 
-* GitHub: [https://github.com/MohammedAnasuddin](https://github.com/MohammedAnasuddin)
-* LinkedIn: [https://linkedin.com/in/connectanasuddin](https://linkedin.com/in/connectanasuddin)
-* Email: [connect.anasuddin@gmail.com](mailto:connect.anasuddin@gmail.com)
+
+
+```bash
+> engineer.profile build completed
+```
