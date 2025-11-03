@@ -1,4 +1,6 @@
 ```md
+
+```js
 import Engineer from "./profile.js";
 
 const mohammed = new Engineer({
@@ -6,6 +8,7 @@ const mohammed = new Engineer({
   language: "JavaScript",
   mindset: "understand → design → build → refine",
 });
+```
 
 ## Mohammed Ansuddin
 > System Architect • JavaScript Engineer • Problem Solver
