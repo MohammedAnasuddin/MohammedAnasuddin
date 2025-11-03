@@ -1,5 +1,3 @@
-```md
-
 ```js
 import Engineer from "./profile.js";
 
@@ -11,50 +9,32 @@ const mohammed = new Engineer({
 ```
 
 ## Mohammed Ansuddin
-> System Architect • JavaScript Engineer • Problem Solver
 
-> Minimal. Precise. Real-world focus.
+System Architect • JavaScript Engineer • Problem Solver
 
-<img align="right" width="140" src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,postgres,tailwind" />
+Minimal. Precise. Real‑world focus.
+
+<img align="right" width="200" src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,postgres,tailwind" />
+
+System‑minded JavaScript engineer building software with clarity, intent, and real‑world impact.
 
 
-System-minded JavaScript engineer building software with clarity, intent, and real-world impact.
 
-## Contents
+## Overview
 
-> _Navigation_
-
-- Overview  
-- Curiosity Engine  
-- Solutions in Progress  
-- Engineering Toolkit  
-- Roadmap  
-- Connect  
-
-// ——————————————————— Overview ———————————————————
-
-### System-First Builder
-> **Principle:** Design systems before writing code
-
-> **Style:** Architecture → Flow → Execution
-
-I design systems before I write code — mapping flows, data paths, and behaviors so execution is clean and predictable.
+I design systems before writing code — mapping flows, data paths, and behaviors so execution is clean and predictable.
 
 ```
-
 idea → problem framing → system design → architecture → build → refine
-
-````
+```
 
 ```js
 const cycle = ["thought", "design", "build", "ship", "improve"];
-````
+```
 
-// —————————————— Curiosity Engine ——————————————
+---
 
-### Curiosity that Builds
-
-> Curiosity = Architecture fuel
+## Curiosity Engine
 
 I learn by tracing logic, reading docs, and understanding internals — not by copying patterns.
 
@@ -62,22 +42,19 @@ I learn by tracing logic, reading docs, and understanding internals — not by c
 question → research → experiment → understand → apply
 ```
 
-Knowledge builds confidence.
-Understanding builds systems.
+Knowledge builds confidence. Understanding builds systems.
 
 ```js
-const learning = { mode: "hands-on", source: "real systems" };
+const learning = { mode: "hands‑on", source: "real systems" };
 ```
 
-// ————————————— Solutions in Progress —————————————
+---
 
-### Solutions in Progress
+## Solutions in Progress
 
-> Building useful systems — step by step
+Engineering meaningful tools, not demos.
 
-> Engineering meaningful tools, not demos
-
-#### LookJobs — Automated Job Discovery
+### LookJobs — Automated Job Discovery
 
 ```js
 const LookJobs = {
@@ -88,18 +65,18 @@ const LookJobs = {
 };
 ```
 
-#### Twisty XO — Strategy Reinvented
+### Twisty XO — Strategy Reinvented
 
 ```js
 const TwistyXO = {
-  goal: "Make tic-tac-toe strategic and replayable",
+  goal: "Make tic‑tac‑toe strategic and replayable",
   idea: "Expiring moves → constant adaptation",
   tech: ["React", "Context API"],
   status: "Playable — refining AI & UX",
 };
 ```
 
-#### CampusBuzz — Realtime Campus Events
+### CampusBuzz — Realtime Campus Events
 
 ```js
 const CampusBuzz = {
@@ -110,11 +87,9 @@ const CampusBuzz = {
 };
 ```
 
-// ——————————— Engineering Toolkit ————————————
+---
 
-### Engineering Toolkit
-
-> Tools chosen for clarity and predictability
+## Engineering Toolkit
 
 ```
 UI & Interaction     → React, TypeScript, Tailwind
@@ -128,18 +103,14 @@ Craft Discipline     → Clean code, debugging, docs, testing mindset
 const engineer = ["systems", "logic", "automation", "UI clarity"];
 ```
 
-// ——————————————— Roadmap ————————————————
+---
 
-### Engineering Roadmap
-
-> Evolution of capability, not features
-
-> AI = enhancement, not hype
+## Roadmap
 
 ```
 → deeper system architecture
 → automation & intelligent flows
-→ scalable real-world applications
+→ scalable real‑world applications
 → integrating AI where it truly adds value
 ```
 
@@ -147,15 +118,10 @@ const engineer = ["systems", "logic", "automation", "UI clarity"];
 const direction = ["system depth", "AI utility", "scalable engineering"];
 ```
 
-// ——————————————— Connect ————————————————
+---
 
-### Connect
-
-> Let's build meaningful systems
+## Connect
 
 * GitHub: [https://github.com/MohammedAnasuddin](https://github.com/MohammedAnasuddin)
 * LinkedIn: [https://linkedin.com/in/connectanasuddin](https://linkedin.com/in/connectanasuddin)
 * Email: [connect.anasuddin@gmail.com](mailto:connect.anasuddin@gmail.com)
-
-```
-```
