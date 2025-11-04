@@ -15,7 +15,7 @@ let mohammed_anasuddin = new Engineer({
   cgpa: 8.38,
   college: "St. Peter's Engneering College (Hyderabad)",
   responsiblities: ["Former President@CSE-Club", 
-               "Former Advisor@Origin (CSE-IT Club)"]
+                    "Former Advisor@Origin (CSE-IT Club)"]
 });
 ```
 
