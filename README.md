@@ -13,8 +13,8 @@ import Engineer from "./profile.js";
 let mohammed_anasuddin = new Engineer({
   branch: "CSE",
   cgpa: 8.38,
-  college: "St. Peter's Engneering College (Hyderabad),
-  activities: ["Former President@CSE-Club", 
+  college: "St. Peter's Engneering College (Hyderabad)",
+  responsiblities: ["Former President@CSE-Club", 
                "Former Advisor@Origin (CSE-IT Club)"]
 });
 ```
