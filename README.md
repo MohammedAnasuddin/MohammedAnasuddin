@@ -1,4 +1,4 @@
-# Crafting Systems with JavaScript — Refined by Curiosity and Intent
+# I Craft Systems with JavaScript — Refined by Curiosity and Intent
 
 ```bash
 > npm create intro@latest
