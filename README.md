@@ -1,10 +1,9 @@
 # I Craft Systems with JavaScript — Refined by Curiosity and Intent
-
-```bash
+bash
 > npm create intro@latest
-```
-
 ---
+
+#  Initialization — Booting the Engineer
 
 ```js
 // === Initialization ===
@@ -21,8 +20,9 @@ let mohammed_anasuddin = new Engineer({
 
 ---
 
+#  Core Engineering Mindset
+
 ```js
-// === Core Identity ===
 // Establish foundational engineering mindset
 mohammed_anasuddin.setCore({
   role: "SDE-Full Stack Developer",
@@ -34,6 +34,8 @@ mohammed_anasuddin.setCore({
 
 ---
 
+#  Curiosity Engine — Learning Protocols Activated
+
 ```js
 // === Curiosity Engine ===
 // Activate learning routines powered by curiosity
@@ -44,6 +46,8 @@ mohammed_anasuddin.enableLearning({
 ```
 
 ---
+
+#  Project Spotlight — LookJobs
 
 ```js
 // === Project-1: LookJobs ===
@@ -59,11 +63,13 @@ mohammed_anasuddin.addProject("LookJobs", {
 
 ---
 
+#  Project Spotlight — TwistyXO
+
 ```js
 // === Project-2: Twisty XO ===
-// Make tic‑tac‑toe strategic via expiring moves
+// Make tic-tac-toe strategic via expiring moves
 mohammed_anasuddin.addProject("TwistyXO", {
-  problem: "Classic tic‑tac‑toe becomes predictable quickly",
+  problem: "Classic tic-tac-toe becomes predictable quickly",
   solution: "Introduce expiring moves to create adaptive strategy",
   type: "Strategy game engine",
   idea: "Expiring moves → adaptive play",
@@ -73,11 +79,13 @@ mohammed_anasuddin.addProject("TwistyXO", {
 
 ---
 
+#  Project Spotlight — CampusBuzz
+
 ```js
 // === Project-3: CampusBuzz ===
 // Real-time campus event discovery + participation
 mohammed_anasuddin.addProject("CampusBuzz", {
-  problem: "Campus events are scattered and hard to track in real‑time",
+  problem: "Campus events are scattered and hard to track in real-time",
   solution: "Centralized live event feed with engagement tools",
   type: "Realtime feed + auth + dashboards",
   stack: ["Flutter", "Firebase"],
@@ -86,21 +94,49 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 ---
 
-```js
-// === Engineering Toolkit ===
-// Attach the technology capabilities
-mohammed_anasuddin.stack({
-  frontend: ["React", "React-Router", "Redux", "TypeScript", "Tailwind", "TanStack Query"],
-  backend: ["Node.js", "Express","RestAPIs"],
-  database: ["PostgreSQL", "MongoDB"],
-  automation: ["Puppeteer", "Cron"],
-  project_management: ["Version Control - Git/GitHub"],
-  testing:["Jest"]
-});
-```
+#  Engineering Toolkit — Skills & Technologies
 
+### **Frontend**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+</p>
+
+### **Backend**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+</p>
+
+### **Databases**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+</p>
+
+### **Automation**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
+</p>
+
+### **Tools**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45"/>
+</p>
 
 ---
+
+#  Roadmap — Future System Upgrades
 
 ```js
 // === Roadmap ===
@@ -115,12 +151,17 @@ mohammed_anasuddin.setRoadmap([
 
 ---
 
+#  Exporting Engineer Instance
+
 ```js
 export default mohammed_anasuddin
 ```
 
-
-
 ```bash
 > engineer.profile build completed
 ```
+
+
+
+
+Just tell me!
