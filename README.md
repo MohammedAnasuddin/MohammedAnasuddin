@@ -1,29 +1,31 @@
-# I Craft Systems with JavaScript — Refined by Curiosity and Intent
-bash
-> npm create intro@latest
----
+# Initialization — Who I Am
 
-#  Initialization — Booting the Engineer
+I’m **Mohammed Anasuddin**, a Full Stack Developer who enjoys building systems that are practical, efficient, and thoughtfully designed.
+This JS-style structure represents how I see myself as an engineer.
 
 ```js
-// === Initialization ===
-// Boot engineer profile instance
 import Engineer from "./profile.js";
 let mohammed_anasuddin = new Engineer({
   branch: "CSE",
   cgpa: 8.38,
-  college: "St. Peter's Engneering College (Hyderabad)",
-  responsiblities: ["Former President@CSE-Club", 
-                    "Former Advisor@Origin (CSE-IT Club)"]
+  college: "St. Peter's Engineering College (Hyderabad)",
+  responsiblities: [
+    "Former President@CSE-Club",
+    "Former Advisor@Origin (CSE-IT Club)"
+  ]
 });
 ```
 
+This initializes my identity, background, and leadership roles.
+
 ---
 
-#  Core Engineering Mindset
+# Core Engineering Mindset — How I Think
+
+My engineering philosophy is simple:
+**understand → design → build → refine**
 
 ```js
-// Establish foundational engineering mindset
 mohammed_anasuddin.setCore({
   role: "SDE-Full Stack Developer",
   stack: "JavaScript Ecosystem",
@@ -32,26 +34,30 @@ mohammed_anasuddin.setCore({
 });
 ```
 
+This describes the mental model I follow to build systems that work.
+
 ---
 
-#  Curiosity Engine — Learning Protocols Activated
+# Curiosity Engine — How I Learn
+
+I learn by exploring internals, reading documentation directly, and experimenting until I fully understand something.
 
 ```js
-// === Curiosity Engine ===
-// Activate learning routines powered by curiosity
 mohammed_anasuddin.enableLearning({
   approach: "understand internals, read docs, experiment",
   belief: "Understanding builds confidence",
 });
 ```
 
+This block outlines my learning behaviour, fueled by curiosity and iteration.
+
 ---
 
-#  Project Spotlight — LookJobs
+# Project Spotlight — LookJobs
+
+**LookJobs** reduces job-search fatigue by centralizing job postings using automation and scheduled scraping.
 
 ```js
-// === Project-1: LookJobs ===
-// Automate job search fatigue using scraping + workflow
 mohammed_anasuddin.addProject("LookJobs", {
   problem: "Job search fatigue and scattered job platforms",
   solution: "Automate job discovery and centralize listings",
@@ -63,11 +69,11 @@ mohammed_anasuddin.addProject("LookJobs", {
 
 ---
 
-#  Project Spotlight — TwistyXO
+# Project Spotlight — TwistyXO
+
+A strategic take on tic-tac-toe by introducing expiring moves, forcing adaptive decision-making.
 
 ```js
-// === Project-2: Twisty XO ===
-// Make tic-tac-toe strategic via expiring moves
 mohammed_anasuddin.addProject("TwistyXO", {
   problem: "Classic tic-tac-toe becomes predictable quickly",
   solution: "Introduce expiring moves to create adaptive strategy",
@@ -79,11 +85,11 @@ mohammed_anasuddin.addProject("TwistyXO", {
 
 ---
 
-#  Project Spotlight — CampusBuzz
+# Project Spotlight — CampusBuzz
+
+A real-time campus events system that keeps students updated about activities, events, and announcements.
 
 ```js
-// === Project-3: CampusBuzz ===
-// Real-time campus event discovery + participation
 mohammed_anasuddin.addProject("CampusBuzz", {
   problem: "Campus events are scattered and hard to track in real-time",
   solution: "Centralized live event feed with engagement tools",
@@ -94,53 +100,50 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 ---
 
-#  Engineering Toolkit — Skills & Technologies
+# Engineering Toolkit — Skills and Technologies
 
-### **Frontend**
+Below is my technical toolbox, presented in a clean monochrome grid.
+All icons are uniform, grayscale, and readable in both light and dark GitHub themes.
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-</p>
+## Tech Stack
 
-### **Backend**
+<p align="center">
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-</p>
+<!-- Languages -->
 
-### **Databases**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" style="filter: grayscale(100%);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48" style="filter: grayscale(100%);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" style="filter: grayscale(100%);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" style="filter: grayscale(100%);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" style="filter: grayscale(100%);"/>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-</p>
+<br/>
 
-### **Automation**
+<!-- Frontend -->
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" style="filter: grayscale(100%);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" style="filter: grayscale(100%);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" style="filter: grayscale(100%);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" style="filter: brightness(0) invert(0);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" style="filter: grayscale(100%);"/>
 
-### **Tools**
+<br/>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45"/>
+<!-- Tools & Databases -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" style="filter: grayscale(100%);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" style="filter: grayscale(100%);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" style="filter: grayscale(100%);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" style="filter: grayscale(100%);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" style="filter: grayscale(100%);"/>
+
 </p>
 
 ---
 
-#  Roadmap — Future System Upgrades
+# Roadmap — Future System Upgrades
 
 ```js
-// === Roadmap ===
-// Configure future growth and strategic direction
 mohammed_anasuddin.setRoadmap([
   "Advanced system architecture",
   "Automation pipelines & intelligent flows",
@@ -149,9 +152,11 @@ mohammed_anasuddin.setRoadmap([
 ]);
 ```
 
+This is my learning and development trajectory for the coming years.
+
 ---
 
-#  Exporting Engineer Instance
+# Export — Final Build
 
 ```js
 export default mohammed_anasuddin
@@ -160,8 +165,3 @@ export default mohammed_anasuddin
 ```bash
 > engineer.profile build completed
 ```
-
-
-
-
-Just tell me!
