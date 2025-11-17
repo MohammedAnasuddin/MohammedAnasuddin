@@ -155,9 +155,9 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 <div align="center">
 
-|NodeJS| Express | PostgreSQL | MongoDB |Firebase Realtime DB|
-|:-------:|:-----------:|:--------:|:----------------------:|
-| <img src="./icons/express.svg" width="28" /> | <img src="./icons/postgresql.svg" width="28" /> | <img src="./icons/mongodb.svg" width="28" /> | <img src="./icons/firebase.svg" width="28" /> |
+| NodeJS                                         | ExpressJS                                         | MongoDB                                         | PostgreSQL                                         |
+|:----------------------------------------------:|:-------------------------------------------------:|:-----------------------------------------------:|:--------------------------------------------------:|
+| <img title="" src="./icons/nodejs.svg" alt=""> | <img title="" src="./icons/expressjs.svg" alt=""> | <img title="" src="./icons/mongodb.svg" alt=""> | <img title="" src="./icons/postgresql.svg" alt=""> |
 
 </div>
 
