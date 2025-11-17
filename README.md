@@ -108,16 +108,60 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 <div align="center">
 
 
+
 | HTML | CSS | JavaScript | TypeScript |
 |:----:|:---:|:----------:|:-----------:|
 | <img src="./icons/htmlp.svg" width="28" /> | <img src="./icons/css.svg" width="28" /> | <img src="./icons/javascript.svg" width="28" /> | <img src="./icons/typescript.svg" width="28" /> |
 
 
-| SQL | Java | Python |  |
-|:---:|:----:|:-------:|:--:|
-| <img src="./icons/sql.svg" width="28" /> | <img src="./icons/java.svg" width="28" /> | <img src="./icons/python.svg" width="28" /> |  |
+| SQL | Java | Python |  
+|:---:|:----:|:-------:|
+| <img src="./icons/sql.svg" width="28" /> | <img src="./icons/java.svg" width="28" /> | <img src="./icons/python.svg" width="28" /> |  
+
+
 
 </div>
+
+
+## Development
+
+### Frontend
+<div align="center">
+
+| React                                         | React Router                                        | Redux                                         | TailwindCSS                                         |
+|:---------------------------------------------:|:---------------------------------------------------:|:---------------------------------------------:|:---------------------------------------------------:|
+| <img title="" src="./icons/react.svg" alt=""> | <img title="" src="./icons/reactrouter.svg" alt=""> | <img title="" src="./icons/redux.svg" alt=""> | <img title="" src="./icons/tailwindcss.svg" alt=""> |
+
+| Daisy UI                                        | Responsive CSS                                     |
+|:-----------------------------------------------:|:--------------------------------------------------:|
+| <img title="" src="./icons/daisyui.svg" alt=""> | <img title="" src="./icons/responsive.svg" alt=""> |
+
+</div>
+
+
+### API & Integration
+
+<div align="center">
+
+| RESTful APIs | Axios | TanStack Query (React Query) | JWT | Jest |
+|:------------:|:-----:|:----------------------------:|:---:|:----:|
+| <img src="./icons/restapi.svg" width="28" /> | <img src="./icons/axios.svg" width="28" /> | <img src="./icons/query.svg" width="28" /> | <img src="./icons/jwt.svg" width="28" /> | <img src="./icons/jest.svg" width="28" /> |
+
+</div>
+
+
+### Backend
+
+<div align="center">
+
+|NodeJS| Express | PostgreSQL | MongoDB |Firebase Realtime DB|
+|:-------:|:-----------:|:--------:|:----------------------:|
+| <img src="./icons/express.svg" width="28" /> | <img src="./icons/postgresql.svg" width="28" /> | <img src="./icons/mongodb.svg" width="28" /> | <img src="./icons/firebase.svg" width="28" /> |
+
+</div>
+
+
+
 
 
 
