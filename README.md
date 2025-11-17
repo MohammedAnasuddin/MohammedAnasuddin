@@ -143,9 +143,10 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 <div align="center">
 
-| RESTful APIs | Axios | TanStack Query (React Query) | JWT | Jest |
-|:------------:|:-----:|:----------------------------:|:---:|:----:|
-| <img src="./icons/restapi.svg" width="28" /> | <img src="./icons/axios.svg" width="28" /> | <img src="./icons/query.svg" width="28" /> | <img src="./icons/jwt.svg" width="28" /> | <img src="./icons/jest.svg" width="28" /> |
+| REST APIs                                       | Axios                                         | TanStack Router (React Query)                      |
+|:-----------------------------------------------:|:---------------------------------------------:|:--------------------------------------------------:|
+| <img title="" src="./icons/postman.svg" alt=""> | <img title="" src="./icons/axios.svg" alt=""> | <img title="" src="./icons/reactquery.svg" alt=""> |
+
 
 </div>
 
