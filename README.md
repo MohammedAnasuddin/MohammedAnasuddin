@@ -165,7 +165,7 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 | Firebase Database                       | Firebase Auth                                      | Oauth                                         | JWT                                         |
 |:------------------------------------------------:|:--------------------------------------------------:|:---------------------------------------------:|:-------------------------------------------:|
-| <img title="" src="./icons/firebase.svg" alt=""> | <img title="" src="./icons/firebasedb.svg" alt=""> | <img title="" src="./icons/oauth.svg" alt=""> | <img title="" src="./icons/jwt.svg" alt=""> |
+| <img title="" src="./icons/firebasedb.svg" alt=""> | <img title="" src="./icons/firebase.svg" alt=""> | <img title="" src="./icons/oauth.svg" alt=""> | <img title="" src="./icons/jwt.svg" alt=""> |
 
 </div>
 
@@ -177,6 +177,17 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 | Git                           | GitHub                          | Git Lens                                        |
 |:-----------------------------:|:-------------------------------:|:-----------------------------------------------:|
 | <img src="./icons/git.svg" /> | <img src="./icons/github.svg"/> | <img title="" src="./icons/gitlens.svg" alt=""> |
+
+</div>
+
+
+### Testing
+
+<div align="center">
+
+| Jest                           |
+|:------------------------------:|
+| <img src="./icons/jest.svg" /> |
 
 </div>
 
