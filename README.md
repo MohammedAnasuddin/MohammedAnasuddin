@@ -128,7 +128,7 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 ### Frontend
 <div align="center">
 
-| React                                         | React Router                                        | Redux                                         | TailwindCSS                                         |
+| ReactJS                                         | React Router                                        | Redux                                         | TailwindCSS                                         |
 |:---------------------------------------------:|:---------------------------------------------------:|:---------------------------------------------:|:---------------------------------------------------:|
 | <img title="" src="./icons/react.svg" alt=""> | <img title="" src="./icons/reactrouter.svg" alt=""> | <img title="" src="./icons/redux.svg" alt=""> | <img title="" src="./icons/tailwindcss.svg" alt=""> |
 
@@ -160,6 +160,17 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 | <img title="" src="./icons/nodejs.svg" alt=""> | <img title="" src="./icons/expressjs.svg" alt=""> | <img title="" src="./icons/mongodb.svg" alt=""> | <img title="" src="./icons/postgresql.svg" alt=""> |
 
 </div>
+
+<div align="center">
+
+| Firebase Realtime <br> Database                       | Firebase Auth                                      | Oauth                                         | JWT                                         |
+|:------------------------------------------------:|:--------------------------------------------------:|:---------------------------------------------:|:-------------------------------------------:|
+| <img title="" src="./icons/firebase.svg" alt=""> | <img title="" src="./icons/firebasedb.svg" alt=""> | <img title="" src="./icons/oauth.svg" alt=""> | <img title="" src="./icons/jwt.svg" alt=""> |
+
+</div>
+
+
+
 
 
 
