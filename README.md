@@ -111,7 +111,7 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 | HTML | CSS | JavaScript | TypeScript |
 |:----:|:---:|:----------:|:-----------:|
-| <img src="./icons/htmlp.svg" width="28" /> | <img src="./icons/css.svg" width="28" /> | <img src="./icons/javascript.svg" width="28" /> | <img src="./icons/typescript.svg" width="28" /> |
+| <img src="./icons/html.svg" width="28" /> | <img src="./icons/css.svg" width="28" /> | <img src="./icons/javascript.svg" width="28" /> | <img src="./icons/typescript.svg" width="28" /> |
 
 
 | SQL | Java | Python |  
