@@ -193,7 +193,15 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 
 
+### Practices
 
+<div align="center">
+
+| Debugging                      | Clean Code                         | Optimization                          |
+|:------------------------------:|:----------------------------------:|:-------------------------------------:|
+| <img src="./icons/debug.svg"/> | <img src="./icons/cleancode.svg"/> | <img src="./icons/optimization.svg"/> |
+
+</div>
 
 
 
