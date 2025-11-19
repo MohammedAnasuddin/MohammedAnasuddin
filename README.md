@@ -163,7 +163,7 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 <div align="center">
 
-| Firebase Realtime <br> Database                       | Firebase Auth                                      | Oauth                                         | JWT                                         |
+| Firebase Database                       | Firebase Auth                                      | Oauth                                         | JWT                                         |
 |:------------------------------------------------:|:--------------------------------------------------:|:---------------------------------------------:|:-------------------------------------------:|
 | <img title="" src="./icons/firebase.svg" alt=""> | <img title="" src="./icons/firebasedb.svg" alt=""> | <img title="" src="./icons/oauth.svg" alt=""> | <img title="" src="./icons/jwt.svg" alt=""> |
 
