@@ -174,9 +174,9 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 <div align="center">
 
 
-| Git                           | GitHub                          |
-|:-----------------------------:|:-------------------------------:|
-| <img src="./icons/git.svg" /> | <img src="./icons/github.svg"/> |
+| Git                           | GitHub                          | Git Lens                                        |
+|:-----------------------------:|:-------------------------------:|:-----------------------------------------------:|
+| <img src="./icons/git.svg" /> | <img src="./icons/github.svg"/> | <img title="" src="./icons/gitlens.svg" alt=""> |
 
 </div>
 
