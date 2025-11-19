@@ -169,9 +169,16 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 </div>
 
+### Version Control
+
+<div align="center">
 
 
+| Git                           | GitHub                          |
+|:-----------------------------:|:-------------------------------:|
+| <img src="./icons/git.svg" /> | <img src="./icons/github.svg"/> |
 
+</div>
 
 
 
