@@ -1,7 +1,6 @@
-# Initialization — Who I Am
-
-I’m **Mohammed Anasuddin**, a Full Stack Developer who enjoys building systems that are practical, efficient, and thoughtfully designed.
-This JS-style structure represents how I see myself as an engineer.
+# Initialization — Who Am I
+I’m **Mohammed Anasuddin**, a Full Stack Developer who enjoys turning ideas into fast, usable, and thoughtfully designed systems.
+I value clarity, clean logic, and building things that actually make someone’s day easier.
 
 ```js
 import Engineer from "./profile.js";
@@ -11,32 +10,27 @@ let mohammed_anasuddin = new Engineer({
   college: "St. Peter's Engineering College (Hyderabad)",
   responsiblities: [
     "Former President@CSE-Club",
-    "Former Advisor@Origin (CSE-IT Club)"
+    "Former Advisor@Origin(CSE-IT Club)"
   ]
 });
 ```
 
-This initializes my identity, background, and leadership roles.
 
----
 
-# Core Engineering Mindset — How I Think
+# How I Build
 
-My engineering philosophy is simple:
-**understand → design → build → refine**
+I like understanding problems deeply and _planning the flow before I write a single line of code_.
+My approach is simple: understand what’s needed, map out how it should work, build it cleanly, and refine it until the system feels smooth and reliable.
 
 ```js
 mohammed_anasuddin.setCore({
   role: "SDE-Full Stack Developer",
   stack: "JavaScript Ecosystem",
-  focus: "Real-world systems",
+  focus: "Real-World systems",
   philosophy: "understand → design → build → refine",
 });
 ```
 
-This describes the mental model I follow to build systems that work.
-
----
 
 # Curiosity Engine — How I Learn
 
