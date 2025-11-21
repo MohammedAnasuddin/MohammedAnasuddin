@@ -1,4 +1,4 @@
-# Initialization — Who Am I
+# Who Am I
 I’m **Mohammed Anasuddin**, a Full Stack Developer who enjoys turning ideas into fast, usable, and thoughtfully designed systems.
 I value clarity, clean logic, and building things that actually make someone’s day easier.
 
@@ -32,7 +32,7 @@ mohammed_anasuddin.setCore({
 ```
 
 
-# Curiosity Engine — How I Learn
+# How I Learn
 
 I learn by exploring internals, reading documentation directly, and experimenting until I fully understand something.
 
@@ -94,9 +94,9 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 
 
-# Engineering Toolkit — Skills and Technologies
+# What I Work With
 
-### Programming Languages
+## Programming Languages
 
 
 <div align="center">
@@ -203,7 +203,7 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 ---
 
-# Roadmap — Future System Upgrades
+# What I Aim For
 
 ```js
 mohammed_anasuddin.setRoadmap([
