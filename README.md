@@ -137,7 +137,7 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 <div align="center">
 
-| REST APIs                                       | Axios                                         | TanStack Router (React Query)                      |
+| REST APIs                                       | Axios                                         | TanStack Query (React Query)                      |
 |:-----------------------------------------------:|:---------------------------------------------:|:--------------------------------------------------:|
 | <img title="" src="./icons/postman.svg" alt=""> | <img title="" src="./icons/axios.svg" alt=""> | <img title="" src="./icons/reactquery.svg" alt=""> |
 
