@@ -122,15 +122,16 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 ### Frontend
 <div align="center">
 
-| ReactJS                                         | React Router                                        | Redux                                         | TailwindCSS                                         |
-|:---------------------------------------------:|:---------------------------------------------------:|:---------------------------------------------:|:---------------------------------------------------:|
-| <img title="" src="./icons/react.svg" alt=""> | <img title="" src="./icons/reactrouter.svg" alt=""> | <img title="" src="./icons/redux.svg" alt=""> | <img title="" src="./icons/tailwindcss.svg" alt=""> |
+| ReactJS                                         | React Router                                        | Redux                                         |
+|:---------------------------------------------:|:---------------------------------------------------:|:---------------------------------------------:|
+| <img src="./icons/react.svg" alt=""> | <img src="./icons/reactrouter.svg" alt=""> | <img src="./icons/redux.svg" alt=""> |
 
-| Daisy UI                                        | Responsive CSS                                     |
-|:-----------------------------------------------:|:--------------------------------------------------:|
-| <img title="" src="./icons/daisyui.svg" alt=""> | <img title="" src="./icons/responsive.svg" alt=""> |
+| TailwindCSS                                      | Daisy UI                                           | Responsive CSS                                 |
+|:-----------------------------------------------:|:--------------------------------------------------:|:---------------------------------------------:|
+| <img src="./icons/tailwindcss.svg" alt=""> | <img src="./icons/daisyui.svg" alt=""> | <img src="./icons/responsive.svg" alt=""> |
 
 </div>
+
 
 
 ### API & Integration
@@ -149,19 +150,33 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 <div align="center">
 
-| NodeJS                                         | ExpressJS                                         | MongoDB                                         | PostgreSQL                                         |
-|:----------------------------------------------:|:-------------------------------------------------:|:-----------------------------------------------:|:--------------------------------------------------:|
-| <img title="" src="./icons/nodejs.svg" alt=""> | <img title="" src="./icons/expressjs.svg" alt=""> | <img title="" src="./icons/mongodb.svg" alt=""> | <img title="" src="./icons/postgresql.svg" alt=""> |
+
+| NodeJS | ExpressJS |
+|:------:|:---------:|
+| <img src="./icons/nodejs.svg" alt=""> | <img src="./icons/expressjs.svg" alt=""> |
 
 </div>
+
 
 <div align="center">
 
-| Firebase Database                       | Firebase Auth                                      | Oauth                                         | JWT                                         |
-|:------------------------------------------------:|:--------------------------------------------------:|:---------------------------------------------:|:-------------------------------------------:|
-| <img title="" src="./icons/firebasedb.svg" alt=""> | <img title="" src="./icons/firebase.svg" alt=""> | <img title="" src="./icons/oauth.svg" alt=""> | <img title="" src="./icons/jwt.svg" alt=""> |
+
+| Firebase Auth | OAuth | JWT |
+|:-------------:|:-----:|:---:|
+| <img src="./icons/firebase.svg" alt=""> | <img src="./icons/oauth.svg" alt=""> | <img src="./icons/jwt.svg" alt=""> |
+
+<div align="center">
+
+
+
+| MongoDB | PostgreSQL | Firebase Database |
+|:-------:|:----------:|:-----------------:|
+| <img src="./icons/mongodb.svg" alt=""> | <img src="./icons/postgresql.svg" alt=""> | <img src="./icons/firebasedb.svg" alt=""> |
 
 </div>
+
+</div>
+
 
 ### Version Control
 
