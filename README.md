@@ -66,13 +66,15 @@ mohammed_anasuddin.addProject("LookJobs", {
   stack: ["Puppeteer", "PostgreSQL", "Cron", "React"],
 });
 ```
-## 📊 Project Workflow
+##  Project Workflow
 
 The diagram below illustrates the overall workflow of the LookJobs Project.
 
 ![LookJobs System Workflow](https://github.com/MohammedAnasuddin/Building-LookJobs/blob/main/Working%20of%20LookJobs.svg)
 
 Explore the full diagram [here (tldraw)](https://www.tldraw.com/f/QBk4pGGeUGvAFRSyNoJXd?d=v-19286.-3191.27942.13105.k7_vRBgDlNvi-Yoxkqzv4)
+
+View the complete repository [here](https://github.com/MohammedAnasuddin/Building-LookJobs).
 
 ---
 
@@ -89,6 +91,17 @@ mohammed_anasuddin.addProject("TwistyXO", {
   stack: ["React", "Context API"],
 });
 ```
+
+## Project Workflow
+
+The diagram below illustrates the overall workfing of the Project : Twisty XO.
+
+![Twisty XO Flow](https://github.com/MohammedAnasuddin/Twisty-XO/blob/main/readme_assets/flow.png)
+
+ Explore the full diagram [here (tldraw)](https://www.tldraw.com/f/0eXQgEhRoGc7QSryBt1Sk?d=v-2230.-598.6140.3538.page)
+
+
+ View the complete repository [here](https://github.com/MohammedAnasuddin/Twisty-XO).
 
 ---
 
