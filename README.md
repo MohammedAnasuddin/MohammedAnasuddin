@@ -66,6 +66,13 @@ mohammed_anasuddin.addProject("LookJobs", {
   stack: ["Puppeteer", "PostgreSQL", "Cron", "React"],
 });
 ```
+## 📊 Project Workflow
+
+The diagram below illustrates the overall workflow of the LookJobs Project.
+
+![LookJobs System Workflow](https://github.com/MohammedAnasuddin/Building-LookJobs/blob/main/Working%20of%20LookJobs.svg)
+
+Explore the full diagram [here (tldraw)](https://www.tldraw.com/f/QBk4pGGeUGvAFRSyNoJXd?d=v-19286.-3191.27942.13105.k7_vRBgDlNvi-Yoxkqzv4)
 
 ---
 
