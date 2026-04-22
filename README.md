@@ -129,9 +129,9 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 
 
-| HTML | CSS | JavaScript | TypeScript |
-|:----:|:---:|:----------:|:-----------:|
-| <img src="./icons/html.svg" width="28" /> | <img src="./icons/css.svg" width="28" /> | <img src="./icons/javascript.svg" width="28" /> | <img src="./icons/typescript.svg" width="28" /> |
+| JavaScript | TypeScript |
+|:----------:|:-----------:|
+ | <img src="./icons/javascript.svg" width="28" /> | <img src="./icons/typescript.svg" width="28" /> |
 
 
 | SQL | Java | Python |  
@@ -187,7 +187,7 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 <div align="center">
 
 
-| Firebase Auth | OAuth | JWT |
+| Firebase Auth | Auth0 | JWT |
 |:-------------:|:-----:|:---:|
 | <img src="./icons/firebase.svg" alt=""> | <img src="./icons/oauth.svg" alt=""> | <img src="./icons/jwt.svg" alt=""> |
 
