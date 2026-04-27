@@ -160,7 +160,7 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 
 
-### API & Integration
+### API & Auth
 
 <div align="center">
 
@@ -168,6 +168,12 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 |:-----------------------------------------------:|:---------------------------------------------:|:--------------------------------------------------:|
 | <img title="" src="./icons/postman.svg" alt=""> | <img title="" src="./icons/axios.svg" alt=""> | <img title="" src="./icons/reactquery.svg" alt=""> |
 
+
+
+
+| Firebase Auth | Auth0 | JWT |
+|:-------------:|:-----:|:---:|
+| <img src="./icons/firebase.svg" alt=""> | <img src="./icons/oauth.svg" alt=""> | <img src="./icons/jwt.svg" alt=""> |
 
 </div>
 
@@ -184,12 +190,7 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 </div>
 
 
-<div align="center">
 
-
-| Firebase Auth | Auth0 | JWT |
-|:-------------:|:-----:|:---:|
-| <img src="./icons/firebase.svg" alt=""> | <img src="./icons/oauth.svg" alt=""> | <img src="./icons/jwt.svg" alt=""> |
 
 <div align="center">
 
@@ -203,20 +204,19 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 </div>
 
-
-### Version Control
+## DevOPs
 
 <div align="center">
 
 
-| Git                           | GitHub                          | Git Lens                                        |
-|:-----------------------------:|:-------------------------------:|:-----------------------------------------------:|
-| <img src="./icons/git.svg" /> | <img src="./icons/github.svg"/> | <img title="" src="./icons/gitlens.svg" alt=""> |
+| GitHub                          |
+|:-------------------------------:|
+| <img src="./icons/github.svg"/> | 
 
 </div>
 
 
-### Testing
+## Testing
 
 <div align="center">
 
@@ -228,13 +228,13 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 
 
-### Practices
+## Practices
 
 <div align="center">
 
-| Debugging                      | Clean Code                         | Optimization                          |
-|:------------------------------:|:----------------------------------:|:-------------------------------------:|
-| <img src="./icons/debug.svg"/> | <img src="./icons/cleancode.svg"/> | <img src="./icons/optimization.svg"/> |
+| Debugging                      | Clean Code                         | Documentation (MarkDown)                         | Optimization          |
+|:------------------------------:|:----------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| <img src="./icons/debug.svg"/> | <img src="./icons/cleancode.svg"/> | <img src="./icons/documentation.svg"/> |  <img src="./icons/optimization.svg"/>|
 
 </div>
 
