@@ -234,7 +234,7 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 | Debugging                      | Clean Code                         | Documentation                          | Optimization          |
 |:------------------------------:|:----------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| <img src="./icons/debug.svg"/> | <img src="./icons/cleancode.svg"/> | <img src="icons/documentation.svg"/> |  <img src="./icons/optimization.svg"/>|
+| <img src="./icons/debug.svg"/> | <img src="./icons/cleancode.svg"/> | <img src="icons/documentation_md.svg"/> |  <img src="./icons/optimization.svg"/>|
 
 </div>
 
