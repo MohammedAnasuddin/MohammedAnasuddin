@@ -232,7 +232,7 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 
 <div align="center">
 
-| Debugging                      | Clean Code                         | Documentation (MarkDown)                         | Optimization          |
+| Debugging                      | Clean Code                         | Documentation                          | Optimization          |
 |:------------------------------:|:----------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | <img src="./icons/debug.svg"/> | <img src="./icons/cleancode.svg"/> | <img src="icons/documentation.svg"/> |  <img src="./icons/optimization.svg"/>|
 
