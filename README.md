@@ -183,9 +183,9 @@ mohammed_anasuddin.addProject("CampusBuzz", {
 <div align="center">
 
 
-| NodeJS | ExpressJS |
-|:------:|:---------:|
-| <img src="./icons/nodejs.svg" alt=""> | <img src="./icons/expressjs.svg" alt=""> |
+| NodeJS | ExpressJS |Springboot
+|:------:|:---------:|:---------:|
+| <img src="./icons/nodejs.svg" alt=""> | <img src="./icons/expressjs.svg" alt=""> |  <img src="./icons/springboot.svg" alt=""> |
 
 </div>
 
